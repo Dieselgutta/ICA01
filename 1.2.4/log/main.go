@@ -1,10 +1,11 @@
 package main
 
 import (
-  "./log"
-  "fmt"
+	"fmt"
+
+	"./log"
 )
-func main()
- {
-  fmt.Println(log.Log2(16))
+
+func main() {
+	fmt.Println(log.Log2(32))
 }
