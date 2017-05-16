@@ -90,6 +90,7 @@ $ git push origin master
 
 1.2.4 Samarbeid i Git og Introduksjon i Golang 
 
+
 1) ​Ved å ha en master i et hovedreposetori sikrer man seg selv for å endre i master. De som jobber sammen kan se endringene som andre man samarbeider med har gjort i prosjektet. Man sikkerhetskopierer filene, og man lar flere personer jobbe med flere ulike type kode. Eksempelvis kan noen jobbe med flere features, mens andre jobber med strukturering,opprydding og refactoring. Et eksempel på dette er dersom en ny programvare skal bli lansert så vil ikke informasjonen du har lagret gå tapt.  Dette betyr også at debugging og maintenance blir enklere, siden man ikke gjør endringer i master-branchen. Man er da beskyttet mot å ødelegge prosjektet. 
 
 
