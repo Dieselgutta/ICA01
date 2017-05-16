@@ -8,9 +8,9 @@ Repository for ICA01 i IS105 for Gruppe 10, Dieselgutta.
 
 Når det gjelder alle programmer/filer som er relatert til oppgavene, så befinner de seg på https://github.com/Dieselgutta/ICA01 
 
-**1.2 Oppgaver**
+# 1.2 Oppgaver
 
-**1.2.1​ Binære tall**
+# 1.2.1​ Binære tall
 
 Konverter følgende desimaltall til 2-tallssystemet (binært tallsystem):
 
@@ -54,7 +54,7 @@ Konverter følgende binære tall til desimaltall (mest signifikante bit-en er ti
 Vi har 0 på enerplassen, 0 på toerplassen og 1 på firerplassen.
 
 
-**1.2.2 Informasjonsmengde**
+# 1.2.2 Informasjonsmengde
 
 Det binære tallet kan være mellom 000 og 111, altså et tall mellom 0 og 7. 
 
@@ -80,7 +80,7 @@ Av disse alternativene er det bare 5 som stemmer overens med alle kriteriene. De
 Louise har da 3 bits med informasjon, og kan dermed finne fram til at det tresifrede binære tallet er 101 (5).
 
 
-**1.2.3 Arbeid med git**
+# 1.2.3 Arbeid med git
 
 Kommandoer: 
 
@@ -93,7 +93,7 @@ $ git status $ git commit -m "endringer"
 $ git push origin master 
 
 
-**1.2.4 Samarbeid i Git og Introduksjon i Golang**
+# 1.2.4 Samarbeid i Git og Introduksjon i Golang
 
 
 1) ​Ved å ha en master i et hovedreposetori sikrer man seg selv for å endre i master. De som jobber sammen kan se endringene som andre man samarbeider med har gjort i prosjektet. Man sikkerhetskopierer filene, og man lar flere personer jobbe med flere ulike type kode. Eksempelvis kan noen jobbe med flere features, mens andre jobber med strukturering,opprydding og refactoring. Et eksempel på dette er dersom en ny programvare skal bli lansert så vil ikke informasjonen du har lagret gå tapt.  Dette betyr også at debugging og maintenance blir enklere, siden man ikke gjør endringer i master-branchen. Man er da beskyttet mot å ødelegge prosjektet. 
