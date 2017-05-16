@@ -3,9 +3,10 @@ Repository for ICA01 i IS105 for Gruppe 10, Dieselgutta.
 
 Når det gjelder alle programmer/filer som er relatert til oppgavene, så befinner de seg på https://github.com/Dieselgutta/ICA01 
 
-1.1
 1.2 Oppgaver 
+
 1.2.1​ Binære tall 
+
 Konverter følgende desimaltall til 2-tallssystemet (binært tallsystem): 
 (1) 1 = 1 – 1bit 
 (2) 2 = 10 – 2bit 
