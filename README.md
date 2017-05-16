@@ -104,16 +104,17 @@ $ git push origin master
   beskyttet mot å ødelegge prosjektet. 
 
 
-  På en annen side er git-flow en vrien måte å bruke om man jobber i et agilt prosjekt, der man enten med laste opp eller ned
-  flere ganger om dagen. Man må også legge til endringer, commite og pushe når man skal endre i prosjektet, dette kan være
-  komplisert fordi man må gjøre det i riktig rekkefølge.På den andre siden kan dette også være en enkel og nyttig funksjon
-  dersom man bruker det riktig, og ofte nok. Å dele opp prosjekter i forskjellige grener eller “branches” forsikrer brukerne
-  mot å endre på feil ting. 
+    På en annen side er git-flow en vrien måte å bruke om man jobber i et agilt prosjekt, der man enten med laste opp eller
+    ned flere ganger om dagen. Man må også legge til endringer, commite og pushe når man skal endre i prosjektet, dette kan
+    være komplisert fordi man må gjøre det i riktig rekkefølge.
+    På den andre siden kan dette også være en enkel og nyttig funksjon
+    dersom man bruker det riktig, og ofte nok. Å dele opp prosjekter i forskjellige grener eller “branches” forsikrer brukerne
+    mot å endre på feil ting. 
 
 
-  Mange problemer med å bruk av github kan komme av dårlig kommunikasjon i gruppen. Hvis flere skal endre på en kode, blir
-  det dumt om alle endrer på den samme tingen. Det er derfor viktig å kommunisere på en god måte hva, når og hvor du gjør
-  endringer. 
+    Mange problemer med å bruk av github kan komme av dårlig kommunikasjon i gruppen. Hvis flere skal endre på en kode, blir
+    det dumt om alle endrer på den samme tingen. Det er derfor viktig å kommunisere på en god måte hva, når og hvor du gjør
+    endringer. 
 
 
   2) Windows: Portabel Executables, for eksempel (.exe, .dll .acm),  Mac: Mach-O,  Linux: COFF (Common Object File Format),
