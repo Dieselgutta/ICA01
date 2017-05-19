@@ -4,6 +4,8 @@
 * Deltakere: Simen Fredriksen, Stian Blankenberg, Jone Manneråk, Kristian Hagberg, Tarjei Taxerås og Rasmus Sørby.
 * Nicolay Leknes og Tommy Nilsson deltok på første gjennomgang av ICA01. 
 
+Vi lagde ny repostory for ICAen fordi vi følte at den gamle repostorien var uryddig og uoversiktelig. Alle i gruppen har jobbet med oppgavene, men alle har ikke jobbet på egen PC. Av disse grunnene har ikke alle i gruppen commitet.
+
 NOTAT: Dersom bilder ikke fungerer finnes de i levert PDF. 
 
 Repository for ICA01 i IS105 for Gruppe 10, Dieselgutta. 
