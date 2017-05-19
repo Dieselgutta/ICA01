@@ -1,8 +1,10 @@
 # ICA01
 
 
-*Deltakere: Simen Fredriksen, Stian Blankenberg, Jone Manneråk, Kristian Hagberg, Tarjei Taxerås og Rasmus Sørby*
+* Deltakere: Simen Fredriksen, Stian Blankenberg, Jone Manneråk, Kristian Hagberg, Tarjei Taxerås og Rasmus Sørby.
+* Nicolay Leknes og Tommy Nilsson deltok på første gjennomgang av ICA01. 
 
+NOTAT: Dersom bilder ikke fungerer finnes de i levert PDF. 
 
 Repository for ICA01 i IS105 for Gruppe 10, Dieselgutta. 
 
